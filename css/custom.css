@@ -33,7 +33,7 @@ background-color: #4CAF50;
 }
 
 li.special:hover {
-  background-color: #81C784;
+  background-color: #66BB6A;
 }
 
 a.special {
@@ -72,5 +72,12 @@ a.special:hover {
   text-align: center;
   color: #f8f8f8;
   background: url(https://i.imgur.com/PWcusVa.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.banner {
+  padding: 100px 0;
+  color: #f8f8f8;
+  background: url(https://i.imgur.com/pPOlNiu.jpg) no-repeat center center;
   background-size: cover;
 }

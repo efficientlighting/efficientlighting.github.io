@@ -102,6 +102,12 @@ a.special:hover {
 
 .intro-header-eb {
   background: url(https://i.imgur.com/DmVCPoR.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.intro-header-fb {
+  background: url(https://i.imgur.com/gx2QG7S.jpg) no-repeat center center;
+  background-size: cover;
 }
 
 .im-subpage {

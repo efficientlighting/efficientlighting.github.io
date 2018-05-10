@@ -147,3 +147,65 @@ a.special:hover {
   color: #b3b3b3;
   text-decoration: none;
 }
+
+.linkbox {
+  margin-top: 25px;
+  height: 214;
+  background-color: #666;
+  width: 164px;
+  margin-bottom: -50px;
+}
+
+.estar {
+  width: 164px;
+  height: 164px;
+  background: url(https://i.imgur.com/HnTddrG.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.masssave {
+  width: 164px;
+  height: 164px;
+  background: url(https://i.imgur.com/4JDtp1d.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.tw {
+  width: 164px;
+  height: 164px;
+  background: url(https://i.imgur.com/B6SAN8D.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.greenlite {
+  width: 164px;
+  height: 164px;
+  background: url(https://i.imgur.com/2XATczp.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.sylvania {
+  width: 164px;
+  height: 164px;
+  background: url(https://i.imgur.com/ZuytJfa.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.ace {
+  width: 164px;
+  height: 164px;
+  background: url(https://i.imgur.com/lRpAscE.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.linkbox > p {
+  margin: 5px;
+  text-align: center;
+  color: white;
+}
